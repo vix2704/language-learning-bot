@@ -1,0 +1,16 @@
+{
+    "french": {
+        "Hello": "Bonjour",
+        "Thank you": "Merci",
+        "I am hungry": "J'ai faim",
+        "Library": "Bibliothèque",
+        "Goodbye": "Au revoir"
+    },
+    "german": {
+        "Hello": "Hallo",
+        "Thank you": "Danke",
+        "I am hungry": "Ich habe Hunger",
+        "Library": "Bibliothek",
+        "Goodbye": "Auf Wiedersehen"
+    }
+}
